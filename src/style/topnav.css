@@ -1,0 +1,14 @@
+.navbar {
+  list-style-type: none;
+  float: left;
+  margin-left: 650px;
+  padding-top: 20px;
+}
+.navbar li {
+  float: left;
+  padding-right: 50px;
+}
+.nav-item a{
+  text-decoration: none;
+  color: black;
+}
