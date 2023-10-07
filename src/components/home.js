@@ -112,11 +112,6 @@ const Home = () => {
   </a>
 </div>
 
-<label class="day-night">
-  <input type="checkbox" checked />
-  <div></div>
-</label>
-
       </>
   )
 }

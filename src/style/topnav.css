@@ -12,3 +12,16 @@
   text-decoration: none;
   color: black;
 }
+
+@media only screen and (max-width: 400px) {
+  .navbar li {
+    float: left;
+    padding-right: 100%;
+  }
+    .navbar {
+      list-style-type: none;
+      float: left;
+      margin-left: 180%;
+      padding-top: 10%;
+    }
+}
