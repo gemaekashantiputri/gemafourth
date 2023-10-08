@@ -5,6 +5,9 @@ import '../style/celebrity.css'
 const Bird = () => {
   return (
     <>
+      <head>
+        <meta name="google-adsense-account" content="ca-pub-6061774675216929"></meta>
+      </head>
       <header className="head">
       <center>
         <img src='/title.png' alt='gemashi' href='/'/>
